@@ -10,7 +10,6 @@ programing-fundamentals/
 │
 ├── assignment1/
 ├── assignment2/
-├── assignment3/
 └── README.md
 
 ---
