@@ -10,6 +10,7 @@ programing-fundamentals/
 │
 ├── assignment1/
 ├── assignment2/
+    assiment3/
 └── README.md
 
 ---
@@ -36,6 +37,12 @@ Files:
 - ASSIGNMENT_02.pdf
 
 ---
+Files:
+- solution1.c
+- solution2.c
+- solution3.c
+- solution4.c
+- ASSIGNMENT_03.pdf
 ## 🛠 Language Used
 - C Programming
 
